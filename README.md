@@ -5,7 +5,7 @@ Projeto para você elaborar e nos enviar.
 
 Temos algumas regrinhas para organizar a sua vida e as nossas =)
 
-1. O app deve consumir o serviço https://api.myjson.com/bins/hvcbf como uma REST API, para obter as informações das lojas.
+1. O app deve consumir o serviço https://raw.githubusercontent.com/mateuscp/DSChallengeiOS/main/jsonRequest.json como uma REST API, para obter as informações das lojas.
 
 2. Deve ser criada uma primeira View com uma lista para exibição de informações básicas das lojas, onde cada item da lista deve conter:
 id
